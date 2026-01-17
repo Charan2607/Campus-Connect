@@ -1,0 +1,4 @@
+{"name":"","email":"","password":"$2b$10$/u8F11iPKPdq85FhKNPpgOKUJU7Th92S0UzWcSlqdxJ0NvOGcEVBO","role":"student","createdAt":{"$$date":1767979154569},"_id":"1mmeAVpD8fcbeRWP"}
+{"name":"Admin User","email":"admin@test.com","password":"$2b$10$nCxCdcLbyFCW5iA.72JHeeYfJm.npCLC6DU6bUMKyIhg37b9IltSe","role":"admin","createdAt":{"$$date":1767898160953},"_id":"GyS9if7H2z1UPh8Q"}
+{"name":"AI Student","email":"ai2@test.com","password":"$2b$10$ep6EFENtLzuY8r205R2s7euKkhlW4ivXkd.s6kGlT4T.CU0i3O.OK","role":"student","branch":"General","createdAt":{"$$date":1767980668720},"_id":"Y3txT4no6e8Ae4nA"}
+{"name":"Manual User","email":"manual@test.com","password":"$2b$10$lsFi2vuW4VT1AQ6SLGobZeC.isgaeRKG9IubHYMKpj2WBopdvgC6G","role":"student","createdAt":{"$$date":1767897881580},"_id":"s57W7QbRWwarAlFf"}
